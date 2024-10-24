@@ -11,6 +11,8 @@
 </div> 
 <div align="center">
   <a href="https://www.kaggle.com/datasets/niteshfre/chessman-image-dataset">Link para o Conjunto de Dados no Kaggle</a>
+  
+  <a href="https://www.kaggle.com/datasets/nurimammasri/chessman-image-dataset">Link para o Conjunto de Dados no Kaggle</a>
 </div>
 
 
