@@ -20,17 +20,7 @@
   <h2>👌 Colunas Presentes</h2>
 </div>
 
-<div>
-  <ul>
-    <li><strong>♟️ Bispo</strong></li>
-    <li><strong>♟️ Rei</strong></li>
-    <li><strong>♟️ Cavalo</strong></li>
-    <li><strong>♟️ Peão</strong></li>
-    <li><strong>♟️ Rainha</strong></li>
-    <li><strong>♟️ Torre</strong></li>
-  </ul>
 
-</div>
 
 
 <!-- Tabela centralizada -->
